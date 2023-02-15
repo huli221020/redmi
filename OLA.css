@@ -1,0 +1,28 @@
+.s{
+    height: 200px;
+    width: 200px;
+    border-radius: 90%;
+}
+.s:hover{
+    transition-duration: 1s;
+    transform: scale(1.1);
+}
+#x{
+    margin-left: -100px;
+}
+
+button{
+    justify-content: space-evenly;
+    margin-top: 6px;
+   margin-left: 120px;
+   /* background-color: red;
+   color: red;     */
+}
+button:hover{
+    transform: scale(1.1);
+    border-radius: 90%;
+   
+}
+#b{
+    margin-left: 150px;
+}
